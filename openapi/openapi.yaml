@@ -39,8 +39,8 @@ info:
     interfaces have done for lower-level programming, OpenAPI removes the
     guesswork in calling the service.
 tags:
-  - name: Echo
-    description: Example echo operations.
+  - name: Matt's Test API
+    description: Example operations for Matt's Test API.
   - name: User
     description: Operations about users.
   - name: Tag
